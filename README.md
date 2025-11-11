@@ -2,7 +2,7 @@
 
 This repo contains almost all contents of the MTH407 course @IISERM.
 
-**Course Outline:**
+**Outline:**
 1. Review of Turing machines and algorithms as implemented using them.
 2. Sorting and searching algorithms (including data structures like balanced search trees, heaps etc).
 3. Tree and graph traversal: depth-first and breadth-first search with applications (e.g. finding biconnected components of a graph in linear time).
